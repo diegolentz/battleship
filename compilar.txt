@@ -1,0 +1,7 @@
+tasm int66ADP
+tlink /t int66ADP
+int66ADP
+tasm main
+tasm lib
+tlink main lib
+main
